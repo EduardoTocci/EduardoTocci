@@ -1,4 +1,4 @@
-<p align="left">Olá , sou o Eduardo Tocci<br><br>- 🔭 Atualmente trabalhando no Tribunal de Contas da União com desenvolvimento de painéis interativos usando Power Bi<br>- 🌱 Estudando python (Django e Análise de dados) e desenvolvimento de jogos com c# <br>- 📫 Gmail : eduardo.lago.tocci@gmail.com</p>
+<p align="left">Olá , sou o Eduardo Tocci<br><br>- 🔭 Atualmente trabalhando no Tribunal de Contas da União com desenvolvimento de painéis interativos usando Power Bi<br>- 🌱 Estudando python (Django e Análise de dados) e desenvolvimento de jogos com C# <br>- 📫 Gmail : eduardo.lago.tocci@gmail.com</p>
 
 ###
 
