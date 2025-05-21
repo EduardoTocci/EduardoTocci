@@ -18,8 +18,10 @@
   <a href="https://www.linkedin.com/in/eduardo-tocci-b6a447268/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="49" height="34" alt="linkedin logo" />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="49" height="34" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="49" height="34" alt="instagram logo"  />
+  <a href="mailto:eduardo.lago.tocci@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="49" height="34" alt="gmail logo" />
+  </a>
+<!--   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="49" height="34" alt="instagram logo"  /> -->
 </div>
 
 ###
